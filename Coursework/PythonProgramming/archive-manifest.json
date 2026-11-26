@@ -1,0 +1,104 @@
+{
+  "course": "Python程序设计（0562）",
+  "collected_on": "2026-11-26",
+  "files": [
+    {
+      "assignment": 1,
+      "file": "Homework01/homework1_1.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/41069",
+      "bytes": 815,
+      "sha256": "a13c05b66fd18795fac8ab4acba6412861c9ab5ec0bbe3a4520453adf2a940d2"
+    },
+    {
+      "assignment": 1,
+      "file": "Homework01/homework1_2.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/41069",
+      "bytes": 767,
+      "sha256": "990c90313abb8a74517bc70714572f2e23547da0788bee2fcc43cc24a5f9d98e"
+    },
+    {
+      "assignment": 1,
+      "file": "Homework01/homework1_3.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/41069",
+      "bytes": 1044,
+      "sha256": "3d2d5f1634a597d4e57461debc8c5546b41dd75cda3a1218fdebde46fb8cb2b4"
+    },
+    {
+      "assignment": 1,
+      "file": "Homework01/homework1_4.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/41069",
+      "bytes": 992,
+      "sha256": "49d9d5db7211eeb8c589179f95072762cb1379d4ab46e8e8d440af54e4a1aa48"
+    },
+    {
+      "assignment": 2,
+      "file": "Homework02/homework2_1.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/43236",
+      "bytes": 3263,
+      "sha256": "f4c88af8cc412ac2d65c2259d631000371b0a506b86b95ecb0ef822f9fad655f"
+    },
+    {
+      "assignment": 2,
+      "file": "Homework02/homework2_2.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/43236",
+      "bytes": 2965,
+      "sha256": "a061a9d8ae5d19af065d1b64b81eb5856209a2ebc40c92a4b832b97b24ccc9d7"
+    },
+    {
+      "assignment": 2,
+      "file": "Homework02/homework2_3.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/43236",
+      "bytes": 3435,
+      "sha256": "a87acd37be0094b8dd8a4466237451ffe4349d19e424f63852ba3a2c99130015"
+    },
+    {
+      "assignment": 3,
+      "file": "Homework03/homework3_1.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/43326",
+      "bytes": 2561,
+      "sha256": "18ae5267ad6f2e30ecbd424114fd3e0d1ed41ec993d785872e4d6174e2aa9aa2"
+    },
+    {
+      "assignment": 3,
+      "file": "Homework03/homework3_2.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/43326",
+      "bytes": 4702,
+      "sha256": "1022142361facdd9e9a8793782f9b299191cf0b097d172db78771f73a1ddcf6a"
+    },
+    {
+      "assignment": 3,
+      "file": "Homework03/homework3_3.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/43326",
+      "bytes": 5415,
+      "sha256": "0c168f5fed9e0475ff1bc1f254c54c65ee89738d2ca370c02a0e8fb7f334d9f7"
+    },
+    {
+      "assignment": 4,
+      "file": "Homework04/homework4_1.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/44090",
+      "bytes": 4689,
+      "sha256": "7970c8d9bd7a101cc2864c734fedf0b5b797673f178133ab9af68e0ff55dd96c"
+    },
+    {
+      "assignment": 4,
+      "file": "Homework04/homework4_2.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/44090",
+      "bytes": 1494,
+      "sha256": "f0781260fa376bb1b8cc0a8aa72ff29a85ce33df67e3f3cce40f213b8e1f4370"
+    },
+    {
+      "assignment": 4,
+      "file": "Homework04/homework4_3.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/44090",
+      "bytes": 2346,
+      "sha256": "52fbc812e9360509d419e89288786157afba89c760ee389b0d73939d491a9a17"
+    },
+    {
+      "assignment": 4,
+      "file": "Homework04/homework4_4.py",
+      "source": "https://canvas.shufe.edu.cn/courses/43781/assignments/44090",
+      "bytes": 5647,
+      "sha256": "a6d18a1407eb37babe23ef355264b697c13d3e6d40422995bef22d5a75865165"
+    }
+  ]
+}

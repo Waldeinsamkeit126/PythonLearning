@@ -1,6 +1,19 @@
 # Python 与 PyTorch 学习
 
-记录 Python 实践中的张量、神经网络与注意力机制学习。当前内容集中在 PyTorch，共 6 个独立脚本。
+记录 Python 程序设计课程作业，以及张量、神经网络与注意力机制学习。课程归档包含前四次作业的 14 个源码文件；LLM 目录保留 6 个 PyTorch 学习脚本。
+
+## 课程作业
+
+[Python 程序设计课程归档](Coursework/PythonProgramming/README.md)：按作业次数整理原始提交，附题目索引、运行方法和验证记录。
+
+| 作业 | 内容 | 入口 |
+| --- | --- | --- |
+| 第一次 | 输入输出、条件判断与费用计算 | [4 个文件](Coursework/PythonProgramming/Homework01/) |
+| 第二次 | 枚举装载、梯度下降与 BFS | [3 个文件](Coursework/PythonProgramming/Homework02/) |
+| 第三次 | 凯撒密码、商品管理与 CSV 统计 | [3 个文件](Coursework/PythonProgramming/Homework03/) |
+| 第四次 | 用标准库实现神经网络层与训练 | [4 个文件](Coursework/PythonProgramming/Homework04/) |
+
+原始提交中的已知问题和缺失数据见[验证记录](Coursework/PythonProgramming/VERIFICATION.md)。
 
 ## 学习导航
 
